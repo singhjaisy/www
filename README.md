@@ -1,4 +1,4 @@
-### [Home](./README.html) | [Departments](Files/Departments.md)
+### [Home](.) | [Departments](Files/Departments.md)
 
 
 ## Welcome Home Page of Guru Nanak Dev Engineerign College, Ludhiana
