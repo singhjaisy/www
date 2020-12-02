@@ -4,5 +4,5 @@
 
 [Staff](Profile/Staff.md)
 
-[Students](Profile/Student.md)
+[Student](Profile/Student.md)
 
