@@ -1,4 +1,4 @@
-### [Home](.) | [Departments](Files/Departments.md) | [Students' Societies](Files/Societies.md) |
+### [Home](.) | [Departments](Files/Departments.md) | [Students' Societies](Files/Societies.md) | [SDT](Files/SDT.md) |
 
 
 ## Welcome Home Page of Guru Nanak Dev Engineering College, Ludhiana
