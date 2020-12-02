@@ -1,5 +1,5 @@
 
-| Photo | ![Display picture](https://yuvrajsingh2304.github.io/Profile/Faculty/Photos/uv.png) 
+| Photo | ![Display picture](Photos/uv.png) 
 | ------ | -------- |
 | Name | Yuvraj Singh |
 | Date of Birth | 23/04/1991 |
