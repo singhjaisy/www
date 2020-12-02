@@ -1,8 +1,8 @@
 ## Profiles
 
-[Faculty](Faculty.md)
+[Faculty](Profile/Faculty.md)
 
-[Staff](Staff.md)
+[Staff](Profile/Staff.md)
 
-[Students](Students.md)
+[Students](Profile/Student.md)
 
