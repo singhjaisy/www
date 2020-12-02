@@ -1,5 +1,6 @@
 ## Profiles
 
-1. [Civil Engineering](CED/index.html)
-1. [Examination Branch](Examination Branch/index.html)
-1. [More to come](.)
+[Faculty](Faculty.md)
+[Staff](Staff.md)
+[Students](Students.md)
+
