@@ -1,4 +1,4 @@
-### [Home](.) | [Departments](Files/Departments.md) | [Students' Societies](Files/Societies.md) | [SDT](Files/SDT.md) | [Profiles](Files/Profiles.md) |
+### Faculty Profiles
 
 1. [Yuvraj Singh](YJS.md)
 1.  
