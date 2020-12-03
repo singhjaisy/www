@@ -1,8 +1,6 @@
-### [Home](.) | [Departments](Files/Departments.md) | [Students' Societies](Files/Societies.md) | [SDT](Files/SDT.md) |
-
+### [Home](.) | [Departments](Files/Departments.md) | [Students' Societies](Files/Societies.md) | [SDT](Files/SDT.md) | [Profile](Profile.md) |
 
 ## Welcome Home Page of Guru Nanak Dev Engineering College, Ludhiana
-
 
 ```markdown
 Syntax highlighted code block
